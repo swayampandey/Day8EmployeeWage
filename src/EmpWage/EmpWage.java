@@ -14,7 +14,7 @@ public class EmpWage {
 	static final int WorkingDayInMonth = 20;
 	static final int WorkingHourPerMonth = 100;
 
-	public static void main(String[] args) {
+	public void EmpW() {
 		
 		System.out.println("Welcome to employee wage computation ");
 		int dailyWages = 0;
